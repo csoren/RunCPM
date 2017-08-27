@@ -46,3 +46,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 .vs
+RunCPM/main.o
+RunCPM/RunCPM
+RunCPM/lua/*.o
+RunCPM/lua/liblua.a
+RunCPM/lua/lua
+RunCPM/lua/luac
